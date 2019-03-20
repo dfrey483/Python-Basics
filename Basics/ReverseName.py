@@ -3,5 +3,5 @@ and print them in reverse order with a space between them.'''
 
 name=input("Please give your full name : ")
 ListName=name.split(' ')
-outputString=ListName[3]+' '+ListName[2]+' '+ListName[2]+' '+ListName[0]
+outputString=ListName[1]+' '+ListName[0]
 print(outputString)
