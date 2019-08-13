@@ -1,13 +1,11 @@
 Python Array [13 exercises with solution]
-[An editor is available at the bottom of the page to write and execute the scripts.]
+
 
 Python array module defines an object type which can compactly represent an array of basic values: characters, integers, floating point numbers. Arrays are sequence types and behave very much like lists, except that the type of objects stored in them is constrained.
 
-1. Write a Python program to create an array of 5 integers and display the array items. Access individual element through indexes. Go to the editor
-Click me to see the sample solution
+1. Write a Python program to create an array of 5 integers and display the array items. Access individual element through indexes.
 
-2. Write a Python program to append a new item to the end of the array. Go to the editor
-Click me to see the sample solution
+2. Write a Python program to append a new item to the end of the array. 
 
 3. Write a Python program to reverse the order of the items in the array. Go to the editor
 Click me to see the sample solution
