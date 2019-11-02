@@ -1,4 +1,4 @@
-Python Array [13 exercises with solution]
+Python Array
 
 
 Python array module defines an object type which can compactly represent an array of basic values: characters, integers, floating point numbers. Arrays are sequence types and behave very much like lists, except that the type of objects stored in them is constrained.
