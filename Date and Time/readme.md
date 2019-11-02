@@ -1,5 +1,4 @@
-Python datetime [52 exercises with solution]
-[An editor is available at the bottom of the page to write and execute the scripts.]
+Python datetime 
 
 1. Write a Python script to display the various Date Time formats - Go to the editor
 a) Current date and time
