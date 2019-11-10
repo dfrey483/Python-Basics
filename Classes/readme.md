@@ -1,5 +1,4 @@
-Python class [12 exercises with solution]
-[An editor is available at the bottom of the page to write and execute the scripts.]
+Python class
 
 1. Write a Python class to convert an integer to a roman numeral. - Go to the editor
 
