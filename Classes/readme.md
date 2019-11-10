@@ -1,6 +1,6 @@
 Python class
 
-1. Write a Python class to convert an integer to a roman numeral. - Go to the editor
+1. Write a Python class to convert an integer to a roman numeral.
 
 Click me to see the solution
 
