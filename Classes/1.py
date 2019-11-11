@@ -1,2 +1,3 @@
 # Write a Python class to convert an integer to a roman numeral.
-print("Hello  World")
+# From Jupiter notebook, through SmartGit
+print("Hello World")
