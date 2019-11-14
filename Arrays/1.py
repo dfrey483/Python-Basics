@@ -1,6 +1,5 @@
 '''Write a Python program to create an array of 5 integers and display the array items.
-Access individual element through indexes.
-Go to the editor Click me to see the sample solution'''
+Access individual element through indexes.'''
 
 """Rough Work""""
 
