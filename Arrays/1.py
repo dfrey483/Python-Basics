@@ -2,8 +2,10 @@
 Access individual element through indexes.
 Go to the editor Click me to see the sample solution'''
 
+"""Rough Work""""
 
-A = [1,'d',54,'g','z']
+import numpy as np
 
-for i in A:
-    print (i)
+array1=np.array([1,2,3,4,5])
+
+print(array1)
