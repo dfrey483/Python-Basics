@@ -4,4 +4,4 @@ This repository is for beginners learning basic python. It can be used as resour
 
 I request you to fork or clone this repository and provide alternate code to existing solutions.
 
-###Thank you.
+Thank you.
