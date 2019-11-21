@@ -49,9 +49,9 @@ attempts name qualify score
 a 1 Anastasia yes 12.5
 b 3 Dima no 9.0 
 c 2 Katherine yes 16.5
-Click me to see the sample solution
 
-5. Write a Pandas program to select the 'name' and 'score' columns from the following DataFrame. Go to the editor
+
+5. Write a Pandas program to select the 'name' and 'score' columns from the following DataFrame.
 Sample Python dictionary data and list labels:
 exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Michael', 'Matthew', 'Laura', 'Kevin', 'Jonas'],
 'score': [12.5, 9, 16.5, np.nan, 9, 20, 14.5, np.nan, 8, 19],
@@ -67,7 +67,7 @@ c Katherine 16.5
 ... h Laura NaN 
 i Kevin 8.0 
 j Jonas 19.0
-Click me to see the sample solution
+
 
 6. Write a Pandas program to select the specified columns and rows from a given data frame. Go to the editor
 Sample Python dictionary data and list labels:
