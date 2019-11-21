@@ -25,5 +25,8 @@ exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Micha
 labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
 
 df = pd.DataFrame(exam_data)
-print(df.loc[:,['name', 'score']])
-#print(df.loc['name', 'score'])
+print(df)
+
+df1 = df.loc[:,['name', 'score']]
+df2 = df['name', 'score']
+#print(df2.equals(df1))
